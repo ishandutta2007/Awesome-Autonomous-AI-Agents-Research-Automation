@@ -42,59 +42,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Devin (Cognition AI)](https://cognition.ai)**  
-
-  Autonomous AI engineering and technical research platform featuring a cloud terminal, browser, and code sandbox to investigate repositories, documentation, and APIs end-to-end.
-
-
-
-- **[Lindy](https://lindy.ai)**  
-
-  No-code autonomous AI agent platform allowing teams to build, schedule, and chain multi-step research, lead-enrichment, and reporting agents across web and workplace apps.
-
-
-
-- **[MultiOn](https://multion.ai)**  
-
-  Cloud-hosted web-browsing AI agent API capable of autonomously navigating dynamic websites, extracting structured information, and completing multi-step online research tasks.
-
-
-
-- **[Adept AI](https://adept.ai)**  
-
-  Enterprise multimodal AI agent platform engineered to interact directly with software interfaces and automate complex cross-application research and operational workflows.
-
-
-
-- **[CrewAI Enterprise](https://crewai.com)**  
-
-  Managed cloud platform for deploying, orchestrating, tracing, and scaling collaborative role-based multi-agent research and analysis crews.
-
-
-
-- **[AgentOps](https://agentops.ai)**  
-
-  Cloud observability, session replay, latency tracking, and cost-monitoring platform built specifically for evaluating and debugging autonomous AI agents.
-
-
-
-- **[Perplexity Enterprise & Deep Research](https://perplexity.ai)**  
-
-  Cloud AI research assistant combining real-time web indexing, multi-step iterative query decomposition, and inline source-cited report synthesis.
-
-
-
-- **[Elicit](https://elicit.com)**  
-
-  AI research assistant tailored for empirical literature reviews, automating paper discovery, data extraction, and structured evidence synthesis across millions of academic papers.
-
-
-
-- **[Consensus](https://consensus.app)**  
-
-  AI-powered academic search and research synthesis platform that extracts peer-reviewed findings and consensus meters directly from scientific literature.
+| Platform | Description | Company Size (Valuation / Revenue) | Pricing (Paid Tiers) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Devin (Cognition AI)](https://cognition.ai)** | Autonomous AI engineering and technical research platform featuring a cloud terminal, browser, and code sandbox to investigate repositories, documentation, and APIs end-to-end. | **$48B valuation** (~$1B ARR) | Pro starts at $20/user/month; Max at $200/month; Team base at $80/month | Free forever plan: unlimited desktop inline edits and tab completions, 2 concurrent cloud sessions, light agent quota |
+| **[Perplexity Enterprise & Deep Research](https://perplexity.ai)** | Cloud AI research assistant combining real-time web indexing, multi-step iterative query decomposition, and inline source-cited report synthesis. | **$20B valuation** (~$450M–$500M ARR) | Pro starts at $20/month ($17/month billed annually); Enterprise Pro at $40/seat/month | Free forever plan: unlimited basic searches, 3 Pro searches per day, 1 Deep Research query per month |
+| **[Adept AI](https://adept.ai)** | Enterprise multimodal AI agent platform engineered to interact directly with software interfaces and automate complex cross-application research and operational workflows. | **$1B peak valuation** ($415M funding; tech licensed to Amazon for ~$25M) | Enterprise custom quote (starts ~$25,000/year base deployment contract via sales demo) | 14-day guided proof-of-concept / sandbox demo upon enterprise sales approval |
+| **[MultiOn](https://multion.ai)** | Cloud-hosted web-browsing AI agent API capable of autonomously navigating dynamic websites, extracting structured information, and completing multi-step online research tasks. | **$100M valuation** ($20.5M funding) | Pro starts at $20/month; API metered from $0.05/task action | Free forever plan: browser extension access capped at 10 agent tasks per day |
+| **[Elicit](https://elicit.com)** | AI research assistant tailored for empirical literature reviews, automating paper discovery, data extraction, and structured evidence synthesis across millions of academic papers. | **$100M valuation** ($25M funding) | Academic Plus at $11/month; Pro starts at $49/user/month billed annually ($75/month monthly) | Free forever Basic plan: unlimited paper search & summaries across 138M+ papers, capped at 2 data extraction columns per table |
+| **[CrewAI Enterprise](https://crewai.com)** | Managed cloud platform for deploying, orchestrating, tracing, and scaling collaborative role-based multi-agent research and analysis crews. | **$50M–$100M valuation** (~$2.4M–$3.2M ARR; $18M funding) | Professional starts at $25/month (2 seats, 100 executions/month); Enterprise custom quote | Free forever Basic plan: 1 user seat, visual Studio builder, capped at 50 workflow executions per month |
+| **[Lindy](https://lindy.ai)** | No-code autonomous AI agent platform allowing teams to build, schedule, and chain multi-step research, lead-enrichment, and reporting agents across web and workplace apps. | **~$50M valuation** (~$5.1M ARR; $54M funding) | Plus starts at $29.99/user/month (3,000 pooled credits); Pro at $99.99/user/month | 7-day free trial with $50 worth of agent trial credits (~500 tasks) |
+| **[Consensus](https://consensus.app)** | AI-powered academic search and research synthesis platform that extracts peer-reviewed findings and consensus meters directly from scientific literature. | **~$30M–$50M valuation** (~$1.5M–$2M ARR; $30M Series B funding) | Pro starts at $12/month billed annually ($20/month monthly); Deep starts at $45/month | Free forever plan: unlimited basic search & summaries, capped at 10 Pro messages and 3 Deep reviews per month |
+| **[AgentOps](https://agentops.ai)** | Cloud observability, session replay, latency tracking, and cost-monitoring platform built specifically for evaluating and debugging autonomous AI agents. | **~$10M–$15M valuation** ($2.6M seed funding) | Pro starts at $40/month; Enterprise custom quote | Free forever Basic plan: capped at 5,000 tracked events per month, 1 project seat |
 
 
 
